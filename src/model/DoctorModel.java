@@ -4,5 +4,5 @@ public class DoctorModel {
 
     private String name;
 
-    private Stirng surname;
+    private String surname;
 }
